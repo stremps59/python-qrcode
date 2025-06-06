@@ -1,6 +1,6 @@
-from qrcode.main import QRCode
-from qrcode.main import make  # noqa
-from qrcode.constants import (  # noqa
+from .main import QRCode
+from .main import QRCode
+from .main import make, Mode
     ERROR_CORRECT_L,
     ERROR_CORRECT_M,
     ERROR_CORRECT_Q,
