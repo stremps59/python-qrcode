@@ -8,7 +8,7 @@ from qrcode_styled.constants import (
 )
 
 
-from qrcode import image  # noqa
+from   # noqaqrcode_styled.image import Image
 
 
 def run_example(data="http://www.lincolnloop.com", *args, **kwargs):
