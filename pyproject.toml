@@ -3,7 +3,7 @@ requires = ["poetry-core"]
 build-backend = "poetry.core.masonry.api"
 
 [tool.poetry]
-name = "qrcode"
+name = "qrcode_styled"
 version = "8.2"
 packages = [{include = "qrcode"}]
 description = "QR Code image generator"
