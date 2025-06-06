@@ -1,4 +1,3 @@
-from qrcode_styled.main import QRCode
 from qrcode_styled.main import make, Mode
 from qrcode_styled.constants import (
     ERROR_CORRECT_L,
